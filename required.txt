@@ -1,0 +1,5 @@
+1.restframework | for create the api
+djoser |for the quick authentication
+multiselectfield |for a model purpose
+corsheader
+authtoken
